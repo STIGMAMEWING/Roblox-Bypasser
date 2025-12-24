@@ -13,7 +13,7 @@
   "functions": {
     "api/app.py": {
       "maxDuration": 30,
-      "runtime": "@vercel/python"
+      "runtime": "@vercel/python@0.1.0"
     }
   },
   "env": {
